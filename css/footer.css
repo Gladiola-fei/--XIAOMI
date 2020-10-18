@@ -1,0 +1,42 @@
+#footer .site_footer{overflow:hidden}
+#footer .site_footer .footer_service{height:80px;margin-top:24px;border-bottom: 1px solid #e0e0e0;}
+#footer .site_footer .footer_service li{float:left;width:244px;text-align:center;height: 25px;border-left: 1px solid #e0e0e0;font-size: 16px;line-height: 25px;padding-top:6px}
+#footer .site_footer .footer_service li:first-child{border-left:0}
+#footer .site_footer .footer_service a{color:#616161;}
+#footer .site_footer .footer_service .iconfont{font-size:26px;padding-right:4px}
+#footer .site_footer .footer_links .col_links{ float:left;width:160px;margin:0;padding-top:42px}
+#footer .site_footer .footer_links .col_links dt{padding-bottom:32px}
+#footer .site_footer .footer_links .col_links dd{padding-bottom:16px;color:#757575;font-size:12px}
+#footer .site_footer .footer_links .col-contact{float: right;width: 246px;border-left: 1px solid rgb(224, 224, 224);text-align: center;color: rgb(97, 97, 97);margin-top:70px}
+#footer .site_footer .footer_links .col-contact .phone{font-size:18px}
+#footer .site_footer .footer_links .col-contact .tips{font-size:10px}
+#footer .site_footer .footer_links .col-contact .service{font-weight:bold;display:block;width:122px;height:30px;border:1px solid #FF6700;margin-left:64px;margin-top:10px;padding-top:4px}
+#footer .site_footer .footer_links .col-contact .connect{font-size:12px;}
+#footer .site_footer .footer_links .col-contact .connect .iconfont{font-size:24px;padding-top:-2px}
+#footer .site_footer .footer_links .col-contact .connect .iconfont:hover{color:#FF6700}
+
+
+#footer .site_footer .footer_links .col-contact .weixin{width:80px;height:80px;margin-top:-8px;margin-left:130px;display:none}
+#footer .site_footer .footer_links .col-contact .weixin img{width:100%;height:100%;}
+/*【问】 一个元素控制另一个元素的显隐 */
+/* .icon-weixing:hover .weixin{display:block;}  */
+
+
+#footer .site_footer .footer_links .col-contact .service:hover{background-color:#FF6700;color:white}
+#footer .site_info{padding: 30px 0;font-size: 12px;background: #fafafa;position:relative;}
+#footer .site_info .logo{ width:57px;height:57px;margin-right:10px;background:url('../image/logo-footer.png') no-repeat 50% 50%;position:absolute;top:30px;left:60px;}
+#footer .site_info .info-text{position:absolute;top:30px;left:132px;}
+#footer .site_info .info-text .article{color:#757575}
+#footer .site_info .info-text .ads,.ads a{color:#B0B0B0;}
+#footer .site_info .info-links{position:absolute;top:120px;left:130px}
+#footer .site_info .info-links a:nth-child(5) img{width:106px;height:42px;margin-top:6px}
+#footer .site_info .slogan{position:absolute;top:200px;left:490px;margin-bottom:30px}
+
+#footer .ads a:hover{color:#FF6700}
+#footer dd a:hover{color: #FF6700;}
+#footer .article a:hover{color: #FF6700;}
+
+#tool_bar{width:28px;height:260px;position:fixed;bottom:38px;right:32px}
+#tool_bar div{width:100%;height:40px;border:1px solid #F5F5F5;background-color:#FFFFFF}
+#tool_bar div span{font-size:18px;padding:4px;line-height:40px;color:#999999}
+#tool_bar .iconfont:hover{color:#FF6700}

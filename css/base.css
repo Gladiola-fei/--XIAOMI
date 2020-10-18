@@ -1,0 +1,13 @@
+*{margin:0;padding:0}
+a{text-decoration:none;color:#333}
+ul, ol{list-style-type:none}
+img{border:0}
+body,ul,li,h1,h2,h3,h4,h5,h6{font-size: 12;font-weight:normal}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}
+body,button,input,select,textarea{font:14px/1.5 tahoma, \5b85\4f53, sans-serif;}
+
+.left{float:left}
+.right{float:right}
+
+.container{width:1228px;margin:0 auto}
+.color_orange{color:#FF6700}

@@ -1,0 +1,23 @@
+#head .site_topbar{width:100%;height:42px;background-color:#333333;margin-top:-6px}
+#head .site_topbar ul:nth-child(2){margin-left:140px}
+#head .site_topbar ul:nth-child(2) li{margin-left:8px}
+#head .site_topbar ul:nth-child(3){opacity:.5;}
+#head .site_topbar img{width:30px;height:30px}
+#head .site_topbar .split{width:1px;height:16px;background-color:#ffffff;margin-top:15px}
+#head .site_topbar ul li{float:left;margin-right:8px;line-height:42px}
+#head .site_topbar ul li a {font-size:10px;color:#ffffff}
+#head .site_topbar ul li em{color:#ffffff;font-size:14px}
+
+#head .top_headbar{height:100px;}
+#head .top_headbar .logo img{width:55px;height:55px;margin:24px 0 24px 0}
+#head .top_headbar{position:relative}
+#head .top_headbar .list{position:absolute;left:304px;top:34px;}
+#head .top_headbar .list li{float:left;margin-right:18px}
+#head .top_headbar .list a{color:rgb(10, 9, 9);font-size:16px}
+#head .top_headbar .search{position:absolute;top:26px;right:58px;}
+#head .top_headbar .search .search-text{width:244px;height:50px;border:1px solid gray;position:absolute;
+top:-1px;left:-251px}
+#head .top_headbar .search a{display:block;width:50px;height:50px;}
+#head .top_headbar .search a:hover .search-btn{color:#ffffff;background-color:#FF6700}
+#head .top_headbar .search .search-btn{display:inline-block;border:1px solid gray;width:30px;height:50px;margin-left:-6px;background-color:#ffffff;margin-top:-1px;}
+#head .top_headbar .search .icon-sousuo{font-size:18px;font-weight:bold;line-height:50px;padding-left:18px;color:#2E1F1F}
